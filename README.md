@@ -49,8 +49,8 @@ Add to your OpenClaw `config.json` under `plugins.entries`:
           "url": "http://localhost:3500",
           "defaultToken": null,
           "senderTokenMap": {
-            "8541626028": "clawkb_tok_moris_full",
-            "8451045766": "clawkb_tok_kesha_readonly"
+            "123456789": "clawkb_tok_alice_full",
+            "987654321": "clawkb_tok_bob_readonly"
           }
         },
         {
