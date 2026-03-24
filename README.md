@@ -2,6 +2,8 @@
 
 **Multi-instance ClawKB Auto-Recall plugin for OpenClaw**
 
+**English** | [繁體中文](README.zh-TW.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md)
+
 Automatically searches one or more [ClawKB](https://github.com/hata1234/clawkb) knowledge base servers on every user message, then injects the most relevant results into the agent's system context — giving your AI assistant instant recall of your personal/team knowledge without any manual retrieval step.
 
 ---
@@ -112,8 +114,8 @@ Add to your OpenClaw `config.json` under `plugins.entries`:
 
 ```
 --- ClawKB Knowledge (auto-recalled) ---
-[Home KB#23] Product FAQ — Our desiccant packets absorb up to 30% moisture…
-[Home KB#41] Pricing Sheet — B2B bulk pricing starts at NT$0.8/unit…
+[Home KB#23] Server Setup Guide — Install Docker and run the compose stack…
+[Home KB#41] API Reference — REST endpoints for entries, search, and tokens…
 [OpenClaw Public KB#7] Quick Start Guide — Install OpenClaw with brew…
 ---
 ```
