@@ -1,0 +1,20 @@
+{
+  "name": "@hata1234/clawkb-openclaw",
+  "version": "1.0.0",
+  "description": "OpenClaw plugin: multi-instance ClawKB auto-recall with per-sender token mapping",
+  "main": "index.ts",
+  "author": "hata1234",
+  "license": "AGPL-3.0",
+  "keywords": [
+    "openclaw",
+    "openclaw-plugin",
+    "clawkb",
+    "knowledge-base",
+    "rag",
+    "auto-recall"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hata1234/clawkb-openclaw.git"
+  }
+}
